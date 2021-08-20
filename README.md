@@ -1,1 +1,5 @@
-# Base-React-App-With-Webpack
+## Build webpack
+```npm run-script build```
+## Run
+```npm install```\
+```npm start```
